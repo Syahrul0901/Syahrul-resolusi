@@ -1,0 +1,8 @@
+Rencana konten syahrul
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP Framework
+- Interview
+- Vlog
