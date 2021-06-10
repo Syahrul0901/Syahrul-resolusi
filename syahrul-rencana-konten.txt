@@ -3,9 +3,11 @@ Rencana konten syahrul
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
-    ^ React
+   ^ Vue
+   ^ React
+- Struktur Data Dasar
 - PHP Framework
   ^ Laravel
 - Interview
 - Vlog
+- python
